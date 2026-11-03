@@ -1,0 +1,9 @@
+{
+  "name": "CritterBid",
+  "short_name": "CritterBid",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f1",
+  "theme_color": "#153b2c",
+  "description": "Responsible discovery of uncommon companion animals."
+}
