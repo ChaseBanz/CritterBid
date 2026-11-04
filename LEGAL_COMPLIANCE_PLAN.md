@@ -1,71 +1,88 @@
 # CritterBid — Legal & Operating Readiness Plan
-**Status: preliminary research checklist, not legal advice or permission to trade animals.** Initial launch review: Pennsylvania / Philadelphia, United States. No real animal listings, auctions, payments, or transfers should be enabled until qualified counsel and the relevant agencies confirm the exact model.
+**Status: preliminary research checklist, not legal advice or permission to trade animals.** Initial review: Pennsylvania / Philadelphia, United States (research current to 2026-11-03). Do not enable real animal listings, auctions, payments, or transfers until qualified counsel and relevant agencies confirm the exact model.
 
-## 1. Core risk: marketplace brokerage and auctions
-A marketplace that arranges sales or operates auctions may be regulated even if it never possesses animals. USDA APHIS guidance describes Class B dealers as including brokers and auction operators who negotiate or arrange purchase, sale, or transport of regulated animals in commerce. Bird coverage depends on species, thresholds, and activity. Obtain a written APHIS determination before any bird listing or auction goes live.
-- APHIS licensing assistant: https://efile.aphis.usda.gov/LRAssistant/s/
-- APHIS licensing: https://www.aphis.usda.gov/awa/apply
-- APHIS bird standards: https://www.aphis.usda.gov/awa/bird-standards
-- APHIS Animal Welfare Inspection Guide: https://www.aphis.usda.gov/sites/default/files/animal-welfare-inspection-guide.pdf
+## Executive finding
+The proposed business is not just a classified-ad website if CritterBid hosts auctions, brokers transactions, or collects and remits seller proceeds. Federal Animal Welfare Act rules expressly describe certain brokers and auction operators as Class B dealers when they negotiate or arrange covered animal purchases, sales, or transport in commerce. Whether the Act covers a particular species and transaction must be assessed separately. This is a major go/no-go question, not a formality.
+- APHIS Animal Welfare Act / Regulations: https://www.aphis.usda.gov/media/document/17164/file
+- APHIS dealer licensing guide: https://www.aphis.usda.gov/sites/default/files/graybook.pdf
+- APHIS dealer application instructions: https://www.aphis.usda.gov/sites/default/files/aw-license-application-dealer.pdf
+- APHIS license assistant: https://efile.aphis.usda.gov/LRAssistant/s/
+- APHIS license information: https://www.aphis.usda.gov/awa/apply
+
+## 1. USDA Animal Welfare Act: broker / auction operator
+APHIS materials describe a Class B licensee as a dealer whose business includes purchase/resale and expressly includes brokers and operators of auction sales who negotiate or arrange purchase, sale, or transport of animals in commerce, even if they do not take physical possession. APHIS guidance says auction operators selling regulated animals for covered purposes must be licensed; consignors may also need dealer licenses unless exempt.
+Important limits: AWA coverage is not every animal in every pet sale. Species, intended purpose, statutory definitions, exemptions and commerce facts matter. Birds have separate AWA guidance and licensing thresholds; some commonly kept pet birds are categorized differently from exotic or wild birds. Reptiles and amphibians generally require a separate species-specific legal analysis rather than assuming the bird rules apply.
+Required action: give APHIS a written description of CritterBid's exact listing, auction, commission, payment, custody, transport, and intended-use model and request a written licensing determination before launching covered auctions.
+- APHIS bird standards and species thresholds: https://www.aphis.usda.gov/awa/bird-standards
 
 ## 2. Pennsylvania reptiles and amphibians
-Pennsylvania Fish and Boat Commission guidance says native reptiles and amphibians generally may not be taken from the wild for sale, trade, or barter; common snapping turtles have a specific commercial-permit exception. Non-native species may be treated differently under PFBC rules, but other state and local restrictions still apply.
-Pennsylvania Department of Agriculture guidance says a Live Aquatic Animal Dealer license is required for dealers of live fish, baitfish, reptiles, amphibians, and other aquatic organisms. Ask the Department in writing whether the platform itself is a dealer when it lists, brokers, or hosts auctions, and which individual sellers require a license.
-- PFBC FAQ: https://www.pa.gov/agencies/fishandboat/faqs/amphibians-%26-reptiles-faqs
+Pennsylvania Fish and Boat Commission (PFBC) guidance says, with the common snapping turtle exception, a reptile or amphibian may not be taken from the wild in Pennsylvania for sale, trade, or barter. Commercial snapping-turtle sales require the appropriate commercial permit. Possession, import, or export of PFBC-listed threatened/endangered species is unlawful. Non-native species may fall outside some PFBC native-species possession rules, but local ordinances and other state/federal laws still apply.
+Separately, Pennsylvania Department of Agriculture says a Live Aquatic Animal Dealer license is required for dealers of live fish, baitfish, reptiles, amphibians, and other aquatic organisms. The published fee is $50 for a five-year license. The public page does not resolve whether a platform-only broker or auction host is itself a dealer; ask PDA in writing. Seller-level licensing may also apply.
+- PFBC reptile/amphibian FAQ: https://www.pa.gov/agencies/fishandboat/faqs/amphibians-%26-reptiles-faqs
 - PFBC regulations: https://www.pa.gov/agencies/fishandboat/conservation/species-management/reptiles-and-amphibians/regulations
+- PFBC native species list: https://www.pa.gov/agencies/fishandboat/conservation/species-management/reptiles-and-amphibians/pa-native-species
 - PA Live Aquatic Animal Dealer license: https://www.pa.gov/services/pda/apply-to-be-a-live-aquatic-animal-dealer
 
-## 3. Federal wildlife and bird controls
-Migratory Bird Treaty Act, Endangered Species Act, CITES, Lacey Act and injurious-wildlife rules can restrict possession, sale, import/export, or interstate movement. Captive-bred status does not automatically exempt a protected species. Use scientific names and require source and permit records; default-deny uncertain species and routes.
+## 3. Philadelphia local animal ordinance — critical launch constraint
+Philadelphia Code §10-106(2) disallows sale, offers for sale/adoption, or exchange (with or without charge) of a “wild animal,” subject to listed exceptions. The definition in §10-101 is broad and expressly lists, among others, raptorial birds (with a specified permit exception), venomous snakes, venomous lizards, alligators/crocodiles, piranha and venomous invertebrates; it also uses broad descriptive language (“wild, fierce, dangerous, noxious, or naturally inclined to do harm”). This does not establish that every bird, reptile, amphibian or commonly kept pet is prohibited. It does mean the exact species and transaction need legal review. The ordinance also defines “offer for sale” broadly to include barter, auction, giveaway, or other transfer.
+If CritterBid is based in Philadelphia, has sellers there, or facilitates Philadelphia transactions, counsel must assess whether the platform itself is making or facilitating a prohibited offer/exchange. Do not launch the listed or potentially covered categories for Philadelphia until counsel gives a written species-by-species interpretation.
+- §10-106: https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-281723
+- Chapter 10-100 / §10-101 definitions: https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-281327
+
+## 4. Federal wildlife, protected birds, and cross-state movement
+The Migratory Bird Treaty Act prohibits unauthorized take, including capture, sale, trade and transport, of protected migratory bird species. Endangered Species Act, CITES, Lacey Act, import/export rules, and injurious-wildlife rules may also restrict species and routes. Captive-bred status does not automatically remove a species from protection. Each listing needs scientific name, origin, source history, permit records, and buyer destination.
 - MBTA: https://www.fws.gov/law/migratory-bird-treaty-act-1918
-- FWS import/export permits: https://www.fws.gov/service/3-200-6-migratory-bird-import-export
+- FWS migratory-bird import/export permit: https://www.fws.gov/service/3-200-6-migratory-bird-import-export
 - Lacey Act: https://www.fws.gov/law/lacey-act
-- Injurious wildlife: https://www.fws.gov/species/injurious-species/injurious-wildlife-listing
+- Injurious wildlife list: https://www.fws.gov/species/injurious-species/injurious-wildlife-listing
 
-## 4. Philadelphia local ordinance
-Philadelphia Code Chapter 10-1006 contains wild-animal restrictions, including keeping and sale/exchange restrictions and specified exceptions. The definition and exemptions are technical; do not infer that every exotic pet is prohibited or permitted. Have Pennsylvania/Philadelphia counsel map the ordinance to every species, seller location, buyer location, and transaction flow. Block Philadelphia-related transactions involving any species not affirmatively cleared.
-- Philadelphia Code: https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-281723
-- Philadelphia business licensing: https://www.phila.gov/services/business-self-employment/register-a-business/
-
-## 5. Entity, tax, and local business registration
-Choose an entity with a lawyer/CPA (an LLC is one option, not automatic advice). Check Pennsylvania entity formation and fictitious-name filings, obtain an EIN, register required tax accounts, and confirm Philadelphia Commercial Activity License / tax-account and zoning requirements for the actual operating address and activities.
+## 5. Business formation and Philadelphia registration
+Choose entity type with a Pennsylvania business attorney/CPA (LLC is one option, not automatic advice). Pennsylvania LLC formation requires a Certificate of Organization and docketing statement. If trading under “CritterBid” rather than the legal entity's proper name, check fictitious-name filing and publication requirements. Obtain EIN and open business banking only after formation and tax advice.
+Philadelphia says businesses operating in the City need a City business tax account and Commercial Activity License (CAL); CAL is currently listed as no-cost and does not expire, but tax compliance and correct legal entity information are required. The city page says businesses outside city limits that do business in Philadelphia may also need the CAL. Confirm applicability to the actual platform operations and operating address.
 - PA LLC: https://www.pa.gov/agencies/dos/programs/business/types-of-filings-and-registrations/pennsylvania-limited-liability-company
 - PA fictitious names: https://www.pa.gov/agencies/dos/programs/business/types-of-filings-and-registrations/fictitious-names
 - PA business registration: https://business.pa.gov/register/registering-with-pennsylvania/basic-business-registration-overview/
 - Philadelphia business registration: https://www.phila.gov/services/business-self-employment/register-a-business/
+- Philadelphia CAL: https://www.phila.gov/services/permits-violations-licenses/get-a-license/business-licenses/activity/get-a-commercial-activity-license/
 
-## 6. Marketplace facilitator taxes and payments
-Pennsylvania marketplace-facilitator status depends on the actual contract, listing, payment collection/transmission, and other statutory criteria. Have a tax professional determine registration, collection, remittance, income reporting, and nexus duties for the chosen commission and payment flow.
-Do not assume a processor accepts this business. Stripe's restricted-business policy includes payment facilitation/aggregation for third-party sellers among restricted/prohibited activities. Obtain written approval from a processor for the exact live-animal categories, auction mechanics, seller payout model, and geographies before integration. Never misclassify the business.
+## 6. Pennsylvania sales tax / marketplace facilitator
+Pennsylvania defines a marketplace facilitator as a person that lists or advertises tangible personal property for retail sale and, directly or indirectly, collects payment from the purchaser and transmits it to the seller. A facilitator with a Pennsylvania place of business is required to collect and remit tax on taxable marketplace sales. PA also describes an economic-presence threshold for remote sellers. Animal sales may have specific tax treatment; have a PA tax professional determine taxability by species/category and CritterBid's precise payment flow before checkout.
+- PA Revenue marketplace facilitator definition: https://revenue-pa.custhelp.com/app/answers/detail/a_id/3587/~/how-does-pennsylvania-define-a-marketplace-facilitator%3F
+- PA facilitator responsibilities: https://revenue-pa.custhelp.com/app/answers/detail/a_id/3588/~/what-are-my-responsibilities-as-a-marketplace-facilitator-if-i-maintain-a-place
 - PA online retailer guidance: https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/sales-use-and-hotel-occupancy-tax/online-retailers
-- Stripe restricted businesses: https://stripe.com/legal/restricted-businesses
+- PA Tax Reform Code definition: https://www.legis.state.pa.us/WU01/LI/LI/US/htm/1971/0/0002.002.000.001.000..htm
 
-## 7. Minimum controls before any live pilot
-- Species whitelist using scientific names; default-deny unknown, protected, invasive/injurious, prohibited, or uncertain species.
-- Rules by seller location, buyer location, origin, destination, and transport route.
-- Seller identity, age, address, facility, permits, licenses, and source verification.
-- Captive-bred/source evidence, acquisition chain, invoices, and veterinary/health records where required.
-- Species-specific welfare, care, age, sex, disclosure, and transport standards.
-- Human moderation, reporting, incident handling, evidence retention, and seller suspension.
-- Buyer/seller agreements, privacy notice, auction/bid/cancellation rules, consumer disclosures, tax records, refunds/chargebacks and support.
-- Security controls, backups, audit logs, insurance review, and breach response.
+## 7. Payments — do not build around an unapproved provider
+Payment providers can prohibit or restrict marketplace payment aggregation/third-party seller settlement. Stripe's current policy expressly lists third-party payment facilitation/aggregation (receiving settlement proceeds for goods/services not provided by the platform on behalf of third-party sellers) as prohibited. Therefore, do not assume Stripe Connect or ordinary Stripe processing is available for CritterBid's seller-payout model. Ask providers for written approval that names live animal categories, auctions, platform commissions, seller payouts, refunds and geography. Do not conceal the business model or route around restrictions.
+- Stripe restricted/prohibited businesses: https://stripe.com/legal/restricted-businesses
 
-## 8. Required written determinations
-1. USDA APHIS: Does the proposed bird marketplace/auction constitute a regulated dealer/broker/auction activity? Which species and thresholds?
-2. Pennsylvania Department of Agriculture: Does CritterBid itself need a Live Aquatic Animal Dealer license? Which seller categories need it?
-3. PFBC: Which native/non-native reptile/amphibian species and source histories may be offered, and what permits/records apply?
-4. Philadelphia counsel: Which species and transactions are barred or exempt under the wild-animal ordinance?
-5. FWS/USDA as relevant: Which federal permits and records apply to exact species and interstate movement?
-6. Pennsylvania tax counsel/CPA: Is CritterBid a marketplace facilitator under the actual transaction flow?
-7. Payment processor: Written approval for the exact animal marketplace and auction/payout model.
+## 8. Minimum controls before any real listing or pilot
+- Species whitelist by scientific name; default-deny unknown, prohibited, protected, threatened/endangered, invasive/injurious, or uncertain species.
+- Rules engine checks seller state/city, buyer state/city, animal origin, destination, and route; block prohibited transactions.
+- Seller identity, age, address, business/facility, permit/license, and source verification; periodic re-checks.
+- Captive-bred/source evidence, chain of custody, acquisition records, invoices, and veterinary/health records where required.
+- Species-specific welfare, care, age, sex, health, disclosure, transport and safe-handoff standards.
+- Manual moderation, report/appeal, emergency response, evidence retention, and seller suspension.
+- Clear buyer/seller agreements, privacy notice, auction/bid/anti-sniping/cancellation rules, consumer disclosures, tax records, refunds/chargebacks and customer support.
+- Security, MFA for privileged accounts, audit logs, data minimization, backups, incident response, and insurance review.
 
-## 9. Launch sequence
-1. Confirm operating address and initial states/cities.
-2. Select a narrow species whitelist and obtain written agency/legal determinations.
-3. Form entity; complete tax and local registrations.
-4. Secure processor approval and insurance.
-5. Build identity/permit verification, eligibility engine, moderation, audit trail, and seller/buyer policies.
-6. Counsel reviews terms, privacy, auctions, transport/handoff and consumer disclosures.
-7. Run a no-payment pilot with vetted sellers and legally cleared species; activate transactions only after every gate passes.
+## 9. Written questions to send before launch
+1. USDA APHIS: Does this exact website/live-auction/broker model make CritterBid a Class B dealer for any proposed bird or other AWA-covered species? Which exemptions and thresholds apply to platform and sellers?
+2. PA Department of Agriculture: Does CritterBid itself require a Live Aquatic Animal Dealer license if it hosts listings/auctions but does not own or possess animals? Which individual sellers need licenses?
+3. PFBC: Which proposed native/non-native reptile/amphibian species, source histories and movements are permitted, and which seller permits/records apply?
+4. Philadelphia Law Department / animal control: Does §10-106 apply to the platform, remote seller, or online auction in the proposed flow? Which species are covered or exempt under §10-101?
+5. U.S. Fish & Wildlife Service: Which federal permits/records and interstate/import/export restrictions apply to each proposed species?
+6. PA Department of Revenue / CPA: Is CritterBid a marketplace facilitator under the exact contracts, payment collection, payout and commission flow? Which animal categories are taxable?
+7. Payment provider: Will it approve in writing the exact live-animal marketplace, auctions, third-party seller payouts, and initial jurisdictions?
 
-**No guarantee:** Legal classification depends on exact facts and can change. This document is a starting checklist, not a legal opinion or agency approval.
+## 10. Go/no-go implementation sequence
+1. Confirm the business operating address and first launch states/cities.
+2. Limit initial catalogue to a narrow whitelist with known legal paths; exclude Philadelphia-restricted and uncertain categories pending counsel.
+3. Obtain written APHIS, PDA, PFBC and local legal determinations.
+4. Form entity; complete state, federal, local and tax registrations.
+5. Obtain written payment-provider approval and insurance.
+6. Build verified seller onboarding, eligibility rules, moderation, records, support and compliant payment/payout flows.
+7. Counsel reviews terms, privacy, auction mechanics, transport/handoff and consumer disclosures.
+8. Conduct a no-payment pilot with vetted sellers and legally cleared species; only then consider limited real transactions.
+
+**No guarantee:** This research is a planning aid, not a legal opinion, permit, license, or agency determination. Current law and provider policies can change; counsel should verify the primary authority before launch.
