@@ -86,3 +86,23 @@ Payment providers can prohibit or restrict marketplace payment aggregation/third
 8. Conduct a no-payment pilot with vetted sellers and legally cleared species; only then consider limited real transactions.
 
 **No guarantee:** This research is a planning aid, not a legal opinion, permit, license, or agency determination. Current law and provider policies can change; counsel should verify the primary authority before launch.
+
+
+## 11. Founder location and address — Meadville, Pennsylvania
+Founder has stated they live in Meadville, PA. The correct registered-office and operating-address plan must reflect the actual facts; do not use an invented or borrowed address to select a more permissive jurisdiction.
+
+- Pennsylvania requires a domestic or registered foreign entity to maintain a physical Pennsylvania registered office address; a P.O. Box alone is not enough. A Commercial Registered Office Provider (CROP) may be used in lieu of an address only after entering a service contract. A CROP is not a substitute for a principal business address where a filing specifically requires one.
+- Pennsylvania LLC law states the registered office may, but need not, be the same as the place of business. A CROP can help keep a home address off the public registered-office field, but banks, tax authorities, licensing applications and payment providers may still require the actual principal operating address and owner information.
+- Forming an LLC in another state does not automatically avoid Pennsylvania obligations. A foreign entity may need to register before doing business in PA; even where a foreign-registration exception applies, PA says those exceptions do not determine tax, service-of-process, or regulatory obligations under other laws. If the founder manages and operates the marketplace from Meadville, obtain counsel's determination before choosing an out-of-state entity.
+- Meadville's adopted zoning code defines a no-impact home-based business with conditions including no excess customer traffic, no substantial inventory, no nonresident employees, and use of no more than 25% of the habitable floor area. Whether remote administration of a website qualifies should be confirmed with the zoning administrator; do not store animals, receive customers, or arrange pickups at a home address without separate approval.
+- Confirm whether the founder's actual parcel is within the City of Meadville or a surrounding municipality (a Meadville mailing address does not prove city limits). Local zoning, tax and licensing rules follow the actual municipality and parcel, not just the postal city.
+
+Official references:
+- PA registered office / CROP: https://www.pa.gov/agencies/dos/programs/business/information-services/commercial-registered-office-providers
+- PA LLC registered office statute: https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/15/00.088.014.000..HTM
+- PA foreign association registration: https://www.pa.gov/agencies/dos/programs/business/types-of-filings-and-registrations/foreign-associations
+- PA foreign association exceptions statute: https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/15/00.004.000.000..HTM
+- Meadville adopted zoning definitions: https://ecode360.com/44876762
+- Meadville accessory use / home occupation rules: https://ecode360.com/44877712
+
+**Recommended provisional structure:** If the company will be managed from the founder's Meadville home and no genuine out-of-state operating location exists, first price a Pennsylvania LLC plus a contracted PA CROP for the registered office. Confirm actual city/township zoning and tax requirements before filing. Do not create a paper out-of-state address merely to chase lenient rules. This is a preliminary recommendation for counsel/CPA review, not a final legal or tax opinion.
